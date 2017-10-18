@@ -1,0 +1,803 @@
+Pokemon Name,Type(s),Base EXP
+Bulbasaur,"['Grass', 'Poison']",64
+Ivysaur,"['Grass', 'Poison']",141
+Venusaur,"['Grass', 'Poison']",208
+Charmander,['Fire'],65
+Charmeleon,['Fire'],142
+Charizard,"['Fire', 'Flying']",209
+Squirtle,['Water'],66
+Wartortle,['Water'],143
+Blastoise,['Water'],210
+Caterpie,['Bug'],53
+Metapod,['Bug'],72
+Butterfree,"['Bug', 'Flying']",160
+Weedle,"['Bug', 'Poison']",52
+Kakuna,"['Bug', 'Poison']",71
+Beedrill,"['Bug', 'Poison']",159
+Pidgey,"['Normal', 'Flying']",55
+Pidgeotto,"['Normal', 'Flying']",113
+Pidgeot,"['Normal', 'Flying']",172
+Rattata,['Normal'],57
+Raticate,['Normal'],116
+Spearow,"['Normal', 'Flying']",58
+Fearow,"['Normal', 'Flying']",162
+Ekans,['Poison'],62
+Arbok,['Poison'],147
+Pikachu,['Electric'],82
+Raichu,['Electric'],122
+Sandshrew,['Ground'],93
+Sandslash,['Ground'],163
+nidoran-f,['Poison'],59
+Nidorina,['Poison'],117
+Nidoqueen,"['Poison', 'Ground']",194
+nidoran-m,['Poison'],60
+Nidorino,['Poison'],118
+Nidoking,"['Poison', 'Ground']",195
+Clefairy,['Fairy'],68
+Clefable,['Fairy'],129
+Vulpix,['Fire'],63
+Ninetales,['Fire'],178
+Jigglypuff,"['Normal', 'Fairy']",76
+Wigglytuff,"['Normal', 'Fairy']",109
+Zubat,"['Poison', 'Flying']",54
+Golbat,"['Poison', 'Flying']",171
+Oddish,"['Grass', 'Poison']",78
+Gloom,"['Grass', 'Poison']",132
+Vileplume,"['Grass', 'Poison']",184
+Paras,"['Bug', 'Grass']",70
+Parasect,"['Bug', 'Grass']",128
+Venonat,"['Bug', 'Poison']",75
+Venomoth,"['Bug', 'Poison']",138
+Diglett,['Ground'],81
+Dugtrio,['Ground'],153
+Meowth,['Normal'],69
+Persian,['Normal'],148
+Psyduck,['Water'],80
+Golduck,['Water'],174
+Mankey,['Fighting'],74
+Primeape,['Fighting'],149
+Growlithe,['Fire'],91
+Arcanine,['Fire'],213
+Poliwag,['Water'],77
+Poliwhirl,['Water'],131
+Poliwrath,"['Water', 'Fighting']",185
+Abra,['Psychic'],75
+Kadabra,['Psychic'],145
+Alakazam,['Psychic'],186
+Machop,['Fighting'],75
+Machoke,['Fighting'],146
+Machamp,['Fighting'],193
+Bellsprout,"['Grass', 'Poison']",84
+Weepinbell,"['Grass', 'Poison']",151
+Victreebel,"['Grass', 'Poison']",191
+Tentacool,"['Water', 'Poison']",105
+Tentacruel,"['Water', 'Poison']",205
+Geodude,"['Rock', 'Ground']",73
+Graveler,"['Rock', 'Ground']",134
+Golem,"['Rock', 'Ground']",177
+Ponyta,['Fire'],152
+Rapidash,['Fire'],192
+Slowpoke,"['Water', 'Psychic']",99
+Slowbro,"['Water', 'Psychic']",164
+Magnemite,"['Electric', 'Steel']",89
+Magneton,"['Electric', 'Steel']",161
+farfetchd,"['Normal', 'Flying']",94
+Doduo,"['Normal', 'Flying']",96
+Dodrio,"['Normal', 'Flying']",158
+Seel,['Water'],100
+Dewgong,"['Water', 'Ice']",176
+Grimer,['Poison'],90
+Muk,['Poison'],157
+Shellder,['Water'],97
+Cloyster,"['Water', 'Ice']",203
+Gastly,"['Ghost', 'Poison']",95
+Haunter,"['Ghost', 'Poison']",126
+Gengar,"['Ghost', 'Poison']",190
+Onix,"['Rock', 'Ground']",108
+Drowzee,['Psychic'],102
+Hypno,['Psychic'],165
+Krabby,['Water'],115
+Kingler,['Water'],206
+Voltorb,['Electric'],103
+Electrode,['Electric'],150
+Exeggcute,"['Grass', 'Psychic']",98
+Exeggutor,"['Grass', 'Psychic']",212
+Cubone,['Ground'],87
+Marowak,['Ground'],124
+Hitmonlee,['Fighting'],139
+Hitmonchan,['Fighting'],140
+Lickitung,['Normal'],127
+Koffing,['Poison'],114
+Weezing,['Poison'],173
+Rhyhorn,"['Ground', 'Rock']",135
+Rhydon,"['Ground', 'Rock']",204
+Chansey,['Normal'],255
+Tangela,['Grass'],166
+Kangaskhan,['Normal'],175
+Horsea,['Water'],83
+Seadra,['Water'],155
+Goldeen,['Water'],111
+Seaking,['Water'],170
+Staryu,['Water'],106
+Starmie,"['Water', 'Psychic']",207
+mr-mime,"['Psychic', 'Fairy']",136
+Scyther,"['Bug', 'Flying']",187
+Jynx,"['Ice', 'Psychic']",137
+Electabuzz,['Electric'],156
+Magmar,['Fire'],167
+Pinsir,['Bug'],200
+Tauros,['Normal'],211
+Magikarp,['Water'],20
+Gyarados,"['Water', 'Flying']",214
+Lapras,"['Water', 'Ice']",219
+Ditto,['Normal'],61
+Eevee,['Normal'],92
+Vaporeon,['Water'],196
+Jolteon,['Electric'],197
+Flareon,['Fire'],198
+Porygon,['Normal'],130
+Omanyte,"['Rock', 'Water']",99
+Omastar,"['Rock', 'Water']",199
+Kabuto,"['Rock', 'Water']",99
+Kabutops,"['Rock', 'Water']",199
+Aerodactyl,"['Rock', 'Flying']",202
+Snorlax,['Normal'],154
+Articuno,"['Ice', 'Flying']",215
+Zapdos,"['Electric', 'Flying']",216
+Moltres,"['Fire', 'Flying']",217
+Dratini,['Dragon'],67
+Dragonair,['Dragon'],144
+Dragonite,"['Dragon', 'Flying']",218
+Mewtwo,['Psychic'],220
+Mew,['Psychic'],64
+Chikorita,['Grass'],64
+Bayleef,['Grass'],141
+Meganium,['Grass'],208
+Cyndaquil,['Fire'],65
+Quilava,['Fire'],142
+Typhlosion,['Fire'],209
+Totodile,['Water'],66
+Croconaw,['Water'],143
+Feraligatr,['Water'],210
+Sentret,['Normal'],57
+Furret,['Normal'],116
+Hoothoot,"['Normal', 'Flying']",58
+Noctowl,"['Normal', 'Flying']",162
+Ledyba,"['Bug', 'Flying']",54
+Ledian,"['Bug', 'Flying']",134
+Spinarak,"['Bug', 'Poison']",54
+Ariados,"['Bug', 'Poison']",134
+Crobat,"['Poison', 'Flying']",204
+Chinchou,"['Water', 'Electric']",90
+Lanturn,"['Water', 'Electric']",156
+Pichu,['Electric'],42
+Cleffa,['Fairy'],37
+Igglybuff,"['Normal', 'Fairy']",39
+Togepi,['Fairy'],74
+Togetic,"['Fairy', 'Flying']",114
+Natu,"['Psychic', 'Flying']",73
+Xatu,"['Psychic', 'Flying']",171
+Mareep,['Electric'],59
+Flaaffy,['Electric'],117
+Ampharos,['Electric'],194
+Bellossom,['Grass'],184
+Marill,"['Water', 'Fairy']",58
+Azumarill,"['Water', 'Fairy']",153
+Sudowoodo,['Rock'],135
+Politoed,['Water'],185
+Hoppip,"['Grass', 'Flying']",74
+Skiploom,"['Grass', 'Flying']",136
+Jumpluff,"['Grass', 'Flying']",176
+Aipom,['Normal'],94
+Sunkern,['Grass'],52
+Sunflora,['Grass'],146
+Yanma,"['Bug', 'Flying']",147
+Wooper,"['Water', 'Ground']",52
+Quagsire,"['Water', 'Ground']",137
+Espeon,['Psychic'],197
+Umbreon,['Dark'],197
+Murkrow,"['Dark', 'Flying']",107
+Slowking,"['Water', 'Psychic']",164
+Misdreavus,['Ghost'],147
+Unown,['Psychic'],61
+Wobbuffet,['Psychic'],177
+Girafarig,"['Normal', 'Psychic']",149
+Pineco,['Bug'],60
+Forretress,"['Bug', 'Steel']",118
+Dunsparce,['Normal'],125
+Gligar,"['Ground', 'Flying']",108
+Steelix,"['Steel', 'Ground']",196
+Snubbull,['Fairy'],63
+Granbull,['Fairy'],178
+Qwilfish,"['Water', 'Poison']",100
+Scizor,"['Bug', 'Steel']",200
+Shuckle,"['Bug', 'Rock']",80
+Heracross,"['Bug', 'Fighting']",200
+Sneasel,"['Dark', 'Ice']",132
+Teddiursa,['Normal'],124
+Ursaring,['Normal'],189
+Slugma,['Fire'],78
+Magcargo,"['Fire', 'Rock']",154
+Swinub,"['Ice', 'Ground']",78
+Piloswine,"['Ice', 'Ground']",160
+Corsola,"['Water', 'Rock']",113
+Remoraid,['Water'],78
+Octillery,['Water'],164
+Delibird,"['Ice', 'Flying']",183
+Mantine,"['Water', 'Flying']",168
+Skarmory,"['Steel', 'Flying']",168
+Houndour,"['Dark', 'Fire']",114
+Houndoom,"['Dark', 'Fire']",204
+Kingdra,"['Water', 'Dragon']",207
+Phanpy,['Ground'],124
+Donphan,['Ground'],189
+Porygon2,['Normal'],180
+Stantler,['Normal'],165
+Smeargle,['Normal'],106
+Tyrogue,['Fighting'],91
+Hitmontop,['Fighting'],138
+Smoochum,"['Ice', 'Psychic']",87
+Elekid,['Electric'],106
+Magby,['Fire'],117
+Miltank,['Normal'],200
+Blissey,['Normal'],255
+Raikou,['Electric'],216
+Entei,['Fire'],217
+Suicune,['Water'],215
+Larvitar,"['Rock', 'Ground']",67
+Pupitar,"['Rock', 'Ground']",144
+Tyranitar,"['Rock', 'Dark']",218
+Lugia,"['Psychic', 'Flying']",220
+Ho-oh,"['Fire', 'Flying']",220
+Celebi,"['Psychic', 'Grass']",64
+Treecko,['Grass'],65
+Grovyle,['Grass'],141
+Sceptile,['Grass'],208
+Torchic,['Fire'],65
+Combusken,"['Fire', 'Fighting']",142
+Blaziken,"['Fire', 'Fighting']",209
+Mudkip,['Water'],65
+Marshtomp,"['Water', 'Ground']",143
+Swampert,"['Water', 'Ground']",210
+Poochyena,['Dark'],55
+Mightyena,['Dark'],128
+Zigzagoon,['Normal'],60
+Linoone,['Normal'],128
+Wurmple,['Bug'],54
+Silcoon,['Bug'],72
+Beautifly,"['Bug', 'Flying']",161
+Cascoon,['Bug'],72
+Dustox,"['Bug', 'Poison']",161
+Lotad,"['Water', 'Grass']",74
+Lombre,"['Water', 'Grass']",141
+Ludicolo,"['Water', 'Grass']",181
+Seedot,['Grass'],74
+Nuzleaf,"['Grass', 'Dark']",141
+Shiftry,"['Grass', 'Dark']",181
+Taillow,"['Normal', 'Flying']",59
+Swellow,"['Normal', 'Flying']",162
+Wingull,"['Water', 'Flying']",64
+Pelipper,"['Water', 'Flying']",164
+Ralts,"['Psychic', 'Fairy']",70
+Kirlia,"['Psychic', 'Fairy']",140
+Gardevoir,"['Psychic', 'Fairy']",208
+Surskit,"['Bug', 'Water']",63
+Masquerain,"['Bug', 'Flying']",128
+Shroomish,['Grass'],65
+Breloom,"['Grass', 'Fighting']",165
+Slakoth,['Normal'],83
+Vigoroth,['Normal'],126
+Slaking,['Normal'],210
+Nincada,"['Bug', 'Ground']",65
+Ninjask,"['Bug', 'Flying']",155
+Shedinja,"['Bug', 'Ghost']",95
+Whismur,['Normal'],68
+Loudred,['Normal'],126
+Exploud,['Normal'],184
+Makuhita,['Fighting'],87
+Hariyama,['Fighting'],184
+Azurill,"['Normal', 'Fairy']",33
+Nosepass,['Rock'],108
+Skitty,['Normal'],65
+Delcatty,['Normal'],138
+Sableye,"['Dark', 'Ghost']",98
+Mawile,"['Steel', 'Fairy']",98
+Aron,"['Steel', 'Rock']",96
+Lairon,"['Steel', 'Rock']",152
+Aggron,"['Steel', 'Rock']",205
+Meditite,"['Fighting', 'Psychic']",91
+Medicham,"['Fighting', 'Psychic']",153
+Electrike,['Electric'],104
+Manectric,['Electric'],168
+Plusle,['Electric'],120
+Minun,['Electric'],120
+Volbeat,['Bug'],146
+Illumise,['Bug'],146
+Roselia,"['Grass', 'Poison']",152
+Gulpin,['Poison'],75
+Swalot,['Poison'],168
+Carvanha,"['Water', 'Dark']",88
+Sharpedo,"['Water', 'Dark']",175
+Wailmer,['Water'],137
+Wailord,['Water'],206
+Numel,"['Fire', 'Ground']",88
+Camerupt,"['Fire', 'Ground']",175
+Torkoal,['Fire'],161
+Spoink,['Psychic'],89
+Grumpig,['Psychic'],164
+Spinda,['Normal'],85
+Trapinch,['Ground'],73
+Vibrava,"['Ground', 'Dragon']",126
+Flygon,"['Ground', 'Dragon']",197
+Cacnea,['Grass'],97
+Cacturne,"['Grass', 'Dark']",177
+Swablu,"['Normal', 'Flying']",74
+Altaria,"['Dragon', 'Flying']",188
+Zangoose,['Normal'],165
+Seviper,['Poison'],165
+Lunatone,"['Rock', 'Psychic']",150
+Solrock,"['Rock', 'Psychic']",150
+Barboach,"['Water', 'Ground']",92
+Whiscash,"['Water', 'Ground']",158
+Corphish,['Water'],111
+Crawdaunt,"['Water', 'Dark']",161
+Baltoy,"['Ground', 'Psychic']",58
+Claydol,"['Ground', 'Psychic']",189
+Lileep,"['Rock', 'Grass']",99
+Cradily,"['Rock', 'Grass']",199
+Anorith,"['Rock', 'Bug']",99
+Armaldo,"['Rock', 'Bug']",199
+Feebas,['Water'],61
+Milotic,['Water'],213
+Castform,['Normal'],145
+Kecleon,['Normal'],132
+Shuppet,['Ghost'],97
+Banette,['Ghost'],179
+Duskull,['Ghost'],97
+Dusclops,['Ghost'],179
+Tropius,"['Grass', 'Flying']",169
+Chimecho,['Psychic'],147
+Absol,['Dark'],174
+Wynaut,['Psychic'],44
+Snorunt,['Ice'],74
+Glalie,['Ice'],187
+Spheal,"['Ice', 'Water']",75
+Sealeo,"['Ice', 'Water']",128
+Walrein,"['Ice', 'Water']",192
+Clamperl,['Water'],142
+Huntail,['Water'],178
+Gorebyss,['Water'],178
+Relicanth,"['Water', 'Rock']",198
+Luvdisc,['Water'],110
+Bagon,['Dragon'],89
+Shelgon,['Dragon'],144
+Salamence,"['Dragon', 'Flying']",218
+Beldum,"['Steel', 'Psychic']",103
+Metang,"['Steel', 'Psychic']",153
+Metagross,"['Steel', 'Psychic']",210
+Regirock,['Rock'],217
+Regice,['Ice'],216
+Registeel,['Steel'],215
+Latias,"['Dragon', 'Psychic']",211
+Latios,"['Dragon', 'Psychic']",211
+Kyogre,['Water'],218
+Groudon,['Ground'],218
+Rayquaza,"['Dragon', 'Flying']",220
+Jirachi,"['Steel', 'Psychic']",215
+Deoxys,['Psychic'],215
+Turtwig,['Grass'],64
+Grotle,['Grass'],141
+Torterra,"['Grass', 'Ground']",208
+Chimchar,['Fire'],65
+Monferno,"['Fire', 'Fighting']",142
+Infernape,"['Fire', 'Fighting']",209
+Piplup,['Water'],66
+Prinplup,['Water'],143
+Empoleon,"['Water', 'Steel']",210
+Starly,"['Normal', 'Flying']",56
+Staravia,"['Normal', 'Flying']",113
+Staraptor,"['Normal', 'Flying']",172
+Bidoof,['Normal'],58
+Bibarel,"['Normal', 'Water']",116
+Kricketot,['Bug'],54
+Kricketune,['Bug'],159
+Shinx,['Electric'],60
+Luxio,['Electric'],117
+Luxray,['Electric'],194
+Budew,"['Grass', 'Poison']",68
+Roserade,"['Grass', 'Poison']",204
+Cranidos,['Rock'],99
+Rampardos,['Rock'],199
+Shieldon,"['Rock', 'Steel']",99
+Bastiodon,"['Rock', 'Steel']",199
+Burmy,['Bug'],61
+Wormadam,"['Bug', 'Grass']",159
+Mothim,"['Bug', 'Flying']",159
+Combee,"['Bug', 'Flying']",63
+Vespiquen,"['Bug', 'Flying']",188
+Pachirisu,['Electric'],120
+Buizel,['Water'],75
+Floatzel,['Water'],178
+Cherubi,['Grass'],68
+Cherrim,['Grass'],133
+Shellos,['Water'],73
+Gastrodon,"['Water', 'Ground']",176
+Ambipom,['Normal'],186
+Drifloon,"['Ghost', 'Flying']",127
+Drifblim,"['Ghost', 'Flying']",204
+Buneary,['Normal'],84
+Lopunny,['Normal'],178
+Mismagius,['Ghost'],187
+Honchkrow,"['Dark', 'Flying']",187
+Glameow,['Normal'],71
+Purugly,['Normal'],183
+Chingling,['Psychic'],74
+Stunky,"['Poison', 'Dark']",79
+Skuntank,"['Poison', 'Dark']",209
+Bronzor,"['Steel', 'Psychic']",72
+Bronzong,"['Steel', 'Psychic']",188
+Bonsly,['Rock'],68
+mime-jr,"['Psychic', 'Fairy']",78
+Happiny,['Normal'],255
+Chatot,"['Normal', 'Flying']",107
+Spiritomb,"['Ghost', 'Dark']",168
+Gible,"['Dragon', 'Ground']",67
+Gabite,"['Dragon', 'Ground']",144
+Garchomp,"['Dragon', 'Ground']",218
+Munchlax,['Normal'],94
+Riolu,['Fighting'],72
+Lucario,"['Fighting', 'Steel']",204
+Hippopotas,['Ground'],95
+Hippowdon,['Ground'],198
+Skorupi,"['Poison', 'Bug']",114
+Drapion,"['Poison', 'Dark']",204
+Croagunk,"['Poison', 'Fighting']",83
+Toxicroak,"['Poison', 'Fighting']",181
+Carnivine,['Grass'],164
+Finneon,['Water'],90
+Lumineon,['Water'],156
+Mantyke,"['Water', 'Flying']",108
+Snover,"['Grass', 'Ice']",131
+Abomasnow,"['Grass', 'Ice']",214
+Weavile,"['Dark', 'Ice']",199
+Magnezone,"['Electric', 'Steel']",211
+Lickilicky,['Normal'],193
+Rhyperior,"['Ground', 'Rock']",217
+Tangrowth,['Grass'],211
+Electivire,['Electric'],199
+Magmortar,['Fire'],199
+Togekiss,"['Fairy', 'Flying']",220
+Yanmega,"['Bug', 'Flying']",198
+Leafeon,['Grass'],196
+Glaceon,['Ice'],196
+Gliscor,"['Ground', 'Flying']",192
+Mamoswine,"['Ice', 'Ground']",207
+Porygon-Z,['Normal'],185
+Gallade,"['Psychic', 'Fighting']",208
+Probopass,"['Rock', 'Steel']",198
+Dusknoir,['Ghost'],210
+Froslass,"['Ice', 'Ghost']",187
+Rotom,"['Electric', 'Ghost']",132
+Uxie,['Psychic'],210
+Mesprit,['Psychic'],210
+Azelf,['Psychic'],210
+Dialga,"['Steel', 'Dragon']",220
+Palkia,"['Water', 'Dragon']",220
+Heatran,"['Fire', 'Steel']",215
+Regigigas,['Normal'],220
+Giratina,"['Ghost', 'Dragon']",220
+Cresselia,['Psychic'],210
+Phione,['Water'],165
+Manaphy,['Water'],215
+Darkrai,['Dark'],210
+Shaymin,['Grass'],64
+Arceus,['Normal'],255
+Victini,"['Psychic', 'Fire']",270
+Snivy,['Grass'],28
+Servine,['Grass'],145
+Serperior,['Grass'],238
+Tepig,['Fire'],28
+Pignite,"['Fire', 'Fighting']",146
+Emboar,"['Fire', 'Fighting']",238
+Oshawott,['Water'],28
+Dewott,['Water'],145
+Samurott,['Water'],238
+Patrat,['Normal'],51
+Watchog,['Normal'],147
+Lillipup,['Normal'],55
+Herdier,['Normal'],130
+Stoutland,['Normal'],221
+Purrloin,['Dark'],56
+Liepard,['Dark'],156
+Pansage,['Grass'],63
+Simisage,['Grass'],174
+Pansear,['Fire'],63
+Simisear,['Fire'],174
+Panpour,['Water'],63
+Simipour,['Water'],174
+Munna,['Psychic'],58
+Musharna,['Psychic'],170
+Pidove,"['Normal', 'Flying']",53
+Tranquill,"['Normal', 'Flying']",125
+Unfezant,"['Normal', 'Flying']",215
+Blitzle,['Electric'],59
+Zebstrika,['Electric'],174
+Roggenrola,['Rock'],56
+Boldore,['Rock'],137
+Gigalith,['Rock'],227
+Woobat,"['Psychic', 'Flying']",63
+Swoobat,"['Psychic', 'Flying']",149
+Drilbur,['Ground'],66
+Excadrill,"['Ground', 'Steel']",178
+Audino,['Normal'],390
+Timburr,['Fighting'],61
+Gurdurr,['Fighting'],142
+Conkeldurr,['Fighting'],227
+Tympole,['Water'],59
+Palpitoad,"['Water', 'Ground']",134
+Seismitoad,"['Water', 'Ground']",225
+Throh,['Fighting'],163
+Sawk,['Fighting'],163
+Sewaddle,"['Bug', 'Grass']",62
+Swadloon,"['Bug', 'Grass']",133
+Leavanny,"['Bug', 'Grass']",221
+Venipede,"['Bug', 'Poison']",52
+Whirlipede,"['Bug', 'Poison']",126
+Scolipede,"['Bug', 'Poison']",214
+Cottonee,"['Grass', 'Fairy']",56
+Whimsicott,"['Grass', 'Fairy']",168
+Petilil,['Grass'],56
+Lilligant,['Grass'],168
+Basculin,['Water'],161
+Sandile,"['Ground', 'Dark']",58
+Krokorok,"['Ground', 'Dark']",123
+Krookodile,"['Ground', 'Dark']",229
+Darumaka,['Fire'],63
+Darmanitan,['Fire'],168
+Maractus,['Grass'],161
+Dwebble,"['Bug', 'Rock']",65
+Crustle,"['Bug', 'Rock']",166
+Scraggy,"['Dark', 'Fighting']",70
+Scrafty,"['Dark', 'Fighting']",171
+Sigilyph,"['Psychic', 'Flying']",172
+Yamask,['Ghost'],61
+Cofagrigus,['Ghost'],169
+Tirtouga,"['Water', 'Rock']",71
+Carracosta,"['Water', 'Rock']",173
+Archen,"['Rock', 'Flying']",71
+Archeops,"['Rock', 'Flying']",177
+Trubbish,['Poison'],66
+Garbodor,['Poison'],166
+Zorua,['Dark'],66
+Zoroark,['Dark'],179
+Minccino,['Normal'],60
+Cinccino,['Normal'],165
+Gothita,['Psychic'],58
+Gothorita,['Psychic'],137
+Gothitelle,['Psychic'],221
+Solosis,['Psychic'],58
+Duosion,['Psychic'],130
+Reuniclus,['Psychic'],221
+Ducklett,"['Water', 'Flying']",61
+Swanna,"['Water', 'Flying']",166
+Vanillite,['Ice'],61
+Vanillish,['Ice'],138
+Vanilluxe,['Ice'],241
+Deerling,"['Normal', 'Grass']",67
+Sawsbuck,"['Normal', 'Grass']",166
+Emolga,"['Electric', 'Flying']",150
+Karrablast,['Bug'],63
+Escavalier,"['Bug', 'Steel']",173
+Foongus,"['Grass', 'Poison']",59
+Amoonguss,"['Grass', 'Poison']",162
+Frillish,"['Water', 'Ghost']",67
+Jellicent,"['Water', 'Ghost']",168
+Alomomola,['Water'],165
+Joltik,"['Bug', 'Electric']",64
+Galvantula,"['Bug', 'Electric']",165
+Ferroseed,"['Grass', 'Steel']",61
+Ferrothorn,"['Grass', 'Steel']",171
+Klink,['Steel'],60
+Klang,['Steel'],154
+Klinklang,['Steel'],234
+Tynamo,['Electric'],55
+Eelektrik,['Electric'],142
+Eelektross,['Electric'],232
+Elgyem,['Psychic'],67
+Beheeyem,['Psychic'],170
+Litwick,"['Ghost', 'Fire']",55
+Lampent,"['Ghost', 'Fire']",130
+Chandelure,"['Ghost', 'Fire']",234
+Axew,['Dragon'],64
+Fraxure,['Dragon'],144
+Haxorus,['Dragon'],243
+Cubchoo,['Ice'],61
+Beartic,['Ice'],170
+Cryogonal,['Ice'],170
+Shelmet,['Bug'],61
+Accelgor,['Bug'],173
+Stunfisk,"['Ground', 'Electric']",165
+Mienfoo,['Fighting'],70
+Mienshao,['Fighting'],179
+Druddigon,['Dragon'],170
+Golett,"['Ground', 'Ghost']",61
+Golurk,"['Ground', 'Ghost']",169
+Pawniard,"['Dark', 'Steel']",68
+Bisharp,"['Dark', 'Steel']",172
+Bouffalant,['Normal'],172
+Rufflet,"['Normal', 'Flying']",70
+Braviary,"['Normal', 'Flying']",179
+Vullaby,"['Dark', 'Flying']",74
+Mandibuzz,"['Dark', 'Flying']",179
+Heatmor,['Fire'],169
+Durant,"['Bug', 'Steel']",169
+Deino,"['Dark', 'Dragon']",60
+Zweilous,"['Dark', 'Dragon']",147
+Hydreigon,"['Dark', 'Dragon']",270
+Larvesta,"['Bug', 'Fire']",72
+Volcarona,"['Bug', 'Fire']",248
+Cobalion,"['Steel', 'Fighting']",261
+Terrakion,"['Rock', 'Fighting']",261
+Virizion,"['Grass', 'Fighting']",261
+Tornadus,['Flying'],261
+Thundurus,"['Electric', 'Flying']",261
+Reshiram,"['Dragon', 'Fire']",306
+Zekrom,"['Dragon', 'Electric']",306
+Landorus,"['Ground', 'Flying']",270
+Kyurem,"['Dragon', 'Ice']",297
+Keldeo,"['Water', 'Fighting']",261
+Meloetta,"['Normal', 'Psychic']",270
+Genesect,"['Bug', 'Steel']",270
+Chespin,['Grass'],63
+Quilladin,['Grass'],142
+Chesnaught,"['Grass', 'Fighting']",239
+Fennekin,['Fire'],61
+Braixen,['Fire'],143
+Delphox,"['Fire', 'Psychic']",240
+Froakie,['Water'],63
+Frogadier,['Water'],142
+Greninja,"['Water', 'Dark']",239
+Bunnelby,['Normal'],47
+Diggersby,"['Normal', 'Ground']",148
+Fletchling,"['Normal', 'Flying']",56
+Fletchinder,"['Fire', 'Flying']",134
+Talonflame,"['Fire', 'Flying']",175
+Scatterbug,['Bug'],40
+Spewpa,['Bug'],75
+Vivillon,"['Bug', 'Flying']",185
+Litleo,"['Fire', 'Normal']",74
+Pyroar,"['Fire', 'Normal']",177
+flabebe,['Fairy'],61
+Floette,['Fairy'],130
+Florges,['Fairy'],248
+Skiddo,['Grass'],70
+Gogoat,['Grass'],186
+Pancham,['Fighting'],70
+Pangoro,"['Fighting', 'Dark']",173
+Furfrou,['Normal'],165
+Espurr,['Psychic'],71
+Meowstic,['Psychic'],163
+Honedge,"['Steel', 'Ghost']",65
+Doublade,"['Steel', 'Ghost']",157
+Aegislash,"['Steel', 'Ghost']",234
+Spritzee,['Fairy'],68
+Aromatisse,['Fairy'],162
+Swirlix,['Fairy'],68
+Slurpuff,['Fairy'],168
+Inkay,"['Dark', 'Psychic']",58
+Malamar,"['Dark', 'Psychic']",169
+Binacle,"['Rock', 'Water']",61
+Barbaracle,"['Rock', 'Water']",175
+Skrelp,"['Poison', 'Water']",64
+Dragalge,"['Poison', 'Dragon']",173
+Clauncher,['Water'],66
+Clawitzer,['Water'],100
+Helioptile,"['Electric', 'Normal']",58
+Heliolisk,"['Electric', 'Normal']",168
+Tyrunt,"['Rock', 'Dragon']",72
+Tyrantrum,"['Rock', 'Dragon']",182
+Amaura,"['Rock', 'Ice']",72
+Aurorus,"['Rock', 'Ice']",104
+Sylveon,['Fairy'],184
+Hawlucha,"['Fighting', 'Flying']",175
+Dedenne,"['Electric', 'Fairy']",151
+Carbink,"['Rock', 'Fairy']",100
+Goomy,['Dragon'],60
+Sliggoo,['Dragon'],158
+Goodra,['Dragon'],270
+Klefki,"['Steel', 'Fairy']",165
+Phantump,"['Ghost', 'Grass']",62
+Trevenant,"['Ghost', 'Grass']",166
+Pumpkaboo,"['Ghost', 'Grass']",67
+Gourgeist,"['Ghost', 'Grass']",173
+Bergmite,['Ice'],61
+Avalugg,['Ice'],180
+Noibat,"['Flying', 'Dragon']",49
+Noivern,"['Flying', 'Dragon']",187
+Xerneas,['Fairy'],306
+Yveltal,"['Dark', 'Flying']",306
+Zygarde,"['Dragon', 'Ground']",270
+Diancie,"['Rock', 'Fairy']",270
+Hoopa,"['Psychic', 'Ghost']",270
+Volcanion,"['Fire', 'Water']",270
+Rowlet,"['Grass', 'Flying']",64
+Dartrix,"['Grass', 'Flying']",147
+Decidueye,"['Grass', 'Ghost']",239
+Litten,['Fire'],64
+Torracat,['Fire'],147
+Incineroar,"['Fire', 'Dark']",239
+Popplio,['Water'],64
+Brionne,['Water'],147
+Primarina,"['Water', 'Fairy']",239
+Pikipek,"['Normal', 'Flying']",53
+Trumbeak,"['Normal', 'Flying']",124
+Toucannon,"['Normal', 'Flying']",218
+Yungoos,['Normal'],51
+Gumshoos,['Normal'],146
+Grubbin,['Bug'],60
+Charjabug,"['Bug', 'Electric']",140
+Vikavolt,"['Bug', 'Electric']",225
+Crabrawler,['Fighting'],68
+Crabominable,"['Fighting', 'Ice']",167
+Oricorio,"['Fire', 'Flying']",167
+Cutiefly,"['Bug', 'Fairy']",61
+Ribombee,"['Bug', 'Fairy']",162
+Rockruff,['Rock'],56
+Lycanroc,['Rock'],170
+Wishiwashi,['Water'],61
+Mareanie,"['Poison', 'Water']",61
+Toxapex,"['Poison', 'Water']",173
+Mudbray,['Ground'],77
+Mudsdale,['Ground'],175
+Dewpider,"['Water', 'Bug']",54
+Araquanid,"['Water', 'Bug']",159
+Fomantis,['Grass'],50
+Lurantis,['Grass'],168
+Morelull,"['Grass', 'Fairy']",57
+Shiinotic,"['Grass', 'Fairy']",142
+Salandit,"['Poison', 'Fire']",64
+Salazzle,"['Poison', 'Fire']",168
+Stufful,"['Normal', 'Fighting']",68
+Bewear,"['Normal', 'Fighting']",175
+Bounsweet,['Grass'],42
+Steenee,['Grass'],102
+Tsareena,['Grass'],230
+Comfey,['Fairy'],170
+Oranguru,"['Normal', 'Psychic']",172
+Passimian,['Fighting'],172
+Wimpod,"['Bug', 'Water']",46
+Golisopod,"['Bug', 'Water']",186
+Sandygast,"['Ghost', 'Ground']",64
+Palossand,"['Ghost', 'Ground']",168
+Pyukumuku,['Water'],144
+type-null,['Normal'],107
+Silvally,['Normal'],114
+Minior,"['Rock', 'Flying']",154
+Komala,['Normal'],168
+Turtonator,"['Fire', 'Dragon']",170
+Togedemaru,"['Electric', 'Steel']",152
+Mimikyu,"['Ghost', 'Fairy']",167
+Bruxish,"['Water', 'Psychic']",166
+Drampa,"['Normal', 'Dragon']",170
+Dhelmise,"['Ghost', 'Grass']",181
+Jangmo-o,['Dragon'],60
+Hakamo-o,"['Dragon', 'Fighting']",147
+Kommo-o,"['Dragon', 'Fighting']",270
+Tapu-Koko,"['Electric', 'Fairy']",114
+Tapu-Lele,"['Psychic', 'Fairy']",114
+Tapu-Bulu,"['Grass', 'Fairy']",114
+Tapu-Fini,"['Water', 'Fairy']",114
+Cosmog,['Psychic'],40
+Cosmoem,['Psychic'],80
+Solgaleo,"['Psychic', 'Steel']",136
+Lunala,"['Psychic', 'Ghost']",136
+Nihilego,"['Rock', 'Poison']",114
+Buzzwole,"['Bug', 'Fighting']",114
+Pheromosa,"['Bug', 'Fighting']",114
+Xurkitree,['Electric'],114
+Celesteela,"['Steel', 'Flying']",114
+Kartana,"['Grass', 'Steel']",114
+Guzzlord,"['Dark', 'Dragon']",114
+Necrozma,['Psychic'],120
+Magearna,"['Steel', 'Fairy']",120
+Marshadow,"['Fighting', 'Ghost']",120
